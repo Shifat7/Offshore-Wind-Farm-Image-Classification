@@ -24,4 +24,11 @@ In-depth implementation details can be found on the following slides:
 
 ![image](https://github.com/Shifat7/Offshore-Wind-Farm-Image-Classification/assets/87413554/4e657728-1ea5-4066-a6c4-26c88363de95)
 
+![image](https://github.com/Shifat7/Offshore-Wind-Farm-Image-Classification/assets/87413554/05bd944c-044f-4f3f-a093-5c3cd944c12a)
+
+![image](https://github.com/Shifat7/Offshore-Wind-Farm-Image-Classification/assets/87413554/b90bc8d3-08fd-4cee-a674-2ffdc2b80468)
+
+![image](https://github.com/Shifat7/Offshore-Wind-Farm-Image-Classification/assets/87413554/e8120f76-76fd-4419-af22-4555f2892e60)
+
+![image](https://github.com/Shifat7/Offshore-Wind-Farm-Image-Classification/assets/87413554/da3be55e-07a1-4634-80e7-90c5e792c273)
 
