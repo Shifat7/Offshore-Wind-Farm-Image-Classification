@@ -4,4 +4,4 @@ This project provides a comprehensive solution for detecting and tracking offsho
 
 The code contains the implementation, data processing scripts, and documentation necessary to replicate and extend this innovative wind turbine detection solution using SAR data.
 
-In-depth implementation details can be found on the pdf slides: 
+In-depth implementation details can be found on the pdf slides: [Hackathon Slides](Aussie_Polaris_Team.ppt)
